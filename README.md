@@ -1,2 +1,2 @@
 # INSTALL
-Instance-aware prompt based learning
+Instance-aware prompt learning 
